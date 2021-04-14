@@ -1,0 +1,7 @@
+numpy
+torch
+ipython
+ipykernel
+matplotlib
+allennlp==0.8.0
+tensorboard
